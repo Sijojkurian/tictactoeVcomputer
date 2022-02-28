@@ -1,0 +1,10 @@
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\bin\Debug\Assignment4SijoJose.exe.config
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\bin\Debug\Assignment4SijoJose.exe
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\bin\Debug\Assignment4SijoJose.pdb
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\obj\Debug\Assignment4SijoJose.csprojAssemblyReference.cache
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\obj\Debug\Assignment4SijoJose.Form1.resources
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\obj\Debug\Assignment4SijoJose.Properties.Resources.resources
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\obj\Debug\Assignment4SijoJose.csproj.GenerateResource.cache
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\obj\Debug\Assignment4SijoJose.csproj.CoreCompileInputs.cache
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\obj\Debug\Assignment4SijoJose.exe
+C:\Users\Sijo\source\repos\Assignment4SijoJose\Assignment4SijoJose\obj\Debug\Assignment4SijoJose.pdb
